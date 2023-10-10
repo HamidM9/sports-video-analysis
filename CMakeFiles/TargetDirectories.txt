@@ -1,0 +1,3 @@
+/Users/mohammadmostafatalebi/Downloads/Projects/CV Project/SportVideoAnalysis/CMakeFiles/SportVideoAnalysis.dir
+/Users/mohammadmostafatalebi/Downloads/Projects/CV Project/SportVideoAnalysis/CMakeFiles/edit_cache.dir
+/Users/mohammadmostafatalebi/Downloads/Projects/CV Project/SportVideoAnalysis/CMakeFiles/rebuild_cache.dir
